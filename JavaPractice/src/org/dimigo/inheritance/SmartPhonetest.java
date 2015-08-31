@@ -17,6 +17,6 @@ public class SmartPhonetest {
 		g.turnOn();
 		g.pay();
 		g.useSpecialFunction();
-		g.turnOff();
+		g.turnOff(); 
 	}
 }
