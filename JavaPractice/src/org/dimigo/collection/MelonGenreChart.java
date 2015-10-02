@@ -15,7 +15,7 @@ public class MelonGenreChart {
 		list.add(new Music("부산에가면", "박진영"));
 		
 		List<Music> list2 = new ArrayList<Music>();
-		list2.add(new Music("커피", "유재환"));
+		list2.add(new Music("커피", "유재환,김예림"));
 		list2.add(new Music("다 잘될거야", "쿨"));
 		
 		map.put("발라드", list);
